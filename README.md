@@ -1,8 +1,8 @@
 - 👋 Hello There, I’m general @voidhidan13
-- 👀 Interessée par les jeux vidéos, la musculation et les trucs de nerds 
+- 👀 Interessée par les jeux vidéos, le sport, la 3D et les trucs de nerds 
 - 🌱 J'apprends le developpement web fullstack (Javascript)
-- 💞️ N'importe qui
-- 📫 
+- 💞️ 
+- 📫 Saint-remy de provence
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
